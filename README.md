@@ -1,5 +1,5 @@
 <H3>Name:UDHAYANITHI M</H3>
-<H3>Register no:212222040054</H3>
+<H3>Register no:212222220054</H3>
 <H3>Date</H3>
 <H3>Experiment No. 2 </H3>
 ## Implementation of Perceptron for Binary Classification
